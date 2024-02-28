@@ -1,3 +1,6 @@
+
+![origin](https://github.com/IsmaelG8/Python-Challenge/assets/128990362/6c8d32b5-66a4-45eb-a635-8ad224902246)
+
 I am excited to present a comprehensive project that I recently completed as part of my journey into the world of programming with Python. This project is encapsulated within a repository named 'python-challenge', designed to address two critical challenges: PyBank and PyPoll, each targeting distinct real-world applications through Python scripting.
 
 Project Overview:
